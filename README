@@ -1,3 +1,6 @@
-a simple command line truth table generator 
+a simple command line truth table generator
 
 Usage information is shown when executed
+
+Caution:
+invalid boolean formular may cause an infinite loop(too lazy to handle exceptions
